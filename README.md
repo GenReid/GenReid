@@ -1,7 +1,7 @@
 ### Hi there, I'm Genny 👋
 ---
 
-I am a motivated, team-oriented, organized Data Analyst
+I am a motivated, team-oriented, organized **Data Analyst**
 
 • 🌐 Im a **Military Spouse** 
 
