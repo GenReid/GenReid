@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Genny 👋
+---
 
-<!--
-**GenReid/GenReid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated, team-oriented, organized Data Analyst
 
-Here are some ideas to get you started:
+• 🌐 Im a **Military Spouse** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🌍 I  volunteer with: **American Red Cross**
+
+• 🌱 Learning more about and studying: **SQL, R Programming, Python, Tableau**
+
+• ⚡ Fun fact: **Love to golf**  
+
+• 📫 Reach me: GennyaReid@gmail.com 
+
+
+#### Find me around the web 🌎:
+• 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/genny-reid/">LinkedIn</a>
